@@ -1,4 +1,4 @@
-package eatigo_pr_cycle
+package main
 
 import (
 	"net/http"
