@@ -1,1 +1,1 @@
-    web: eatigo-pr-cycle
+web: eatigo-pr-cycle
