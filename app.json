@@ -1,9 +1,5 @@
 {
   "name": "PR Cycle",
   "description": "Eatigo PR Cycle",
-  "keywords": [],
-  "image": "heroku/go:1.9",
-  "mount_dir": "src/github.com/andreaswong/eatigo-pr-cycle",
-  "website": "http://github.com/andreaswong/eatigo-pr-cycle",
-  "repository": "http://github.com/andreaswong/eatigo-pr-cycle"
+  "keywords": []
 }
