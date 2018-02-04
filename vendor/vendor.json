@@ -1,19 +1,31 @@
 {
-  "comment": "",
-  "rootPath": "github.com/andreaswong/eatigo-pr-cycle",
-  "heroku": {
-    "goVersion": "go1.9",
-    "install": [
-      "./..."
-    ]
-  },
-  "ignore": "test",
-  "package": [
-    {
-      "checksumSHA1": "lj9Rx9JoFLH8ntXqXZzcUupwJBw=",
-      "path": "github.com/gorilla/mux",
-      "revision": "a72205bc7eb08c3c0d3adcd0987263f1bf9fad95",
-      "revisionTime": "2018-01-30T14:11:01Z"
-    }
-  ]
+	"comment": "",
+	"heroku": {
+		"goVersion": "go1.9",
+		"install": [
+			"./..."
+		]
+	},
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "lj9Rx9JoFLH8ntXqXZzcUupwJBw=",
+			"path": "github.com/gorilla/mux",
+			"revision": "a72205bc7eb08c3c0d3adcd0987263f1bf9fad95",
+			"revisionTime": "2018-01-30T14:11:01Z"
+		},
+		{
+			"checksumSHA1": "Upm2HylYMVgYGQhytkkuaEdKuwM=",
+			"path": "github.com/joho/godotenv",
+			"revision": "6bb08516677f8c8274c557fc801bee9ab564ab2c",
+			"revisionTime": "2018-01-15T02:49:21Z"
+		},
+		{
+			"checksumSHA1": "+eEtQF1Qh4ZjeyNbDuCNh8w0jY4=",
+			"path": "github.com/mitchellh/mapstructure",
+			"revision": "a4e142e9c047c904fa2f1e144d9a84e6133024bc",
+			"revisionTime": "2018-02-03T10:28:30Z"
+		}
+	],
+	"rootPath": "github.com/andreaswong/eatigo-pr-cycle"
 }
