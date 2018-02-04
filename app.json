@@ -1,5 +1,6 @@
 {
   "name": "PR Cycle",
   "description": "Eatigo PR Cycle",
-  "keywords": []
+  "keywords": [],
+  "rootPath": "github.com/andreaswong/eatigo-pr-cycle"
 }
