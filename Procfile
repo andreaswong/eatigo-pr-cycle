@@ -1,0 +1,1 @@
+    web: eatigo-pr-cycle
