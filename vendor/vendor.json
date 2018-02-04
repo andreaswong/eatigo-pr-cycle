@@ -1,0 +1,19 @@
+{
+  "comment": "",
+  "rootPath": "github.com/andreaswong/eatigo-pr-cycle",
+  "heroku": {
+    "goVersion": "go1.9",
+    "install": [
+      "./..."
+    ]
+  },
+  "ignore": "test",
+  "package": [
+    {
+      "checksumSHA1": "lj9Rx9JoFLH8ntXqXZzcUupwJBw=",
+      "path": "github.com/gorilla/mux",
+      "revision": "a72205bc7eb08c3c0d3adcd0987263f1bf9fad95",
+      "revisionTime": "2018-01-30T14:11:01Z"
+    }
+  ]
+}
